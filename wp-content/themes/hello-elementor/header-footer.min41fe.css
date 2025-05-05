@@ -1,0 +1,93 @@
+/* Base Background and Text */
+body {
+    background-color: #ffffff;
+    color: #222222;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header and Footer */
+.site-header,
+.site-footer {
+    background-color: #f8f9fa;
+    color: #222;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+/* Navigation Menu */
+.site-navigation ul.menu li a {
+    color: #222222;
+    background-color: transparent;
+}
+
+.site-navigation ul.menu li a:hover,
+.site-navigation ul.menu li.current-menu-item a {
+    background-color: #e9ecef;
+    color: #000;
+}
+
+/* Dropdown Menus */
+.site-navigation ul.menu li ul,
+.site-navigation-dropdown ul.menu {
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+}
+
+.site-navigation ul.menu li ul li {
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.site-navigation-dropdown ul.menu li a {
+    background-color: #ffffff;
+    color: #222222;
+}
+
+.site-navigation-dropdown ul.menu li a:hover {
+    background-color: #f0f0f0;
+}
+
+/* Footer Copyright */
+.site-footer .footer-inner .copyright p {
+    color: #6c757d;
+}
+
+/* Global Font Color */
+
+
+/* Buttons */
+button,
+input[type="submit"],
+.site-navigation-toggle,
+a.button {
+    background-color: #0d6efd;
+    /* Bootstrap-style blue */
+    color: #ffffff;
+    border: none;
+    padding: 0.5em 1em;
+    font-size: 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Button Hover */
+button:hover,
+input[type="submit"]:hover,
+.site-navigation-toggle:hover,
+a.button:hover {
+    background-color: #0b5ed7;
+    /* Darker blue on hover */
+    color: #ffffff;
+}
+
+/* Optional: Secondary Button */
+button.secondary,
+a.button.secondary {
+    background-color: #6c757d;
+    /* Gray */
+    color: #ffffff;
+}
+
+button.secondary:hover,
+a.button.secondary:hover {
+    background-color: #5a6268;
+}

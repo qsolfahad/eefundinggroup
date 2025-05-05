@@ -1,0 +1,84 @@
+/* Light Theme Global Overrides */
+body {
+    background-color: #ffffff;
+    color: #222222;
+    font-family: 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #111;
+}
+
+/* Link Styling */
+a {
+    color: #0d6efd;
+    text-decoration: underline;
+}
+
+a:hover,
+a:focus {
+    color: #084298;
+    text-decoration: underline;
+}
+
+/* Button Styling */
+button,
+[type=button],
+[type=submit],
+a.button {
+    background-color: #0d6efd;
+    color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+button:hover,
+[type=button]:hover,
+[type=submit]:hover,
+a.button:hover {
+    background-color: #0b5ed7;
+    color: #fff;
+}
+
+/* Input Styling */
+input,
+textarea,
+select {
+    background-color: #fff;
+    color: #212529;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+    border-color: #80bdff;
+    outline: none;
+}
+
+/* Table Styling */
+table {
+    border-color: #ddd;
+}
+
+table th {
+    background-color: #f8f9fa;
+    color: #212529;
+}
+
+table tbody tr:hover td,
+table tbody tr:hover th {
+    background-color: #e9ecef;
+}

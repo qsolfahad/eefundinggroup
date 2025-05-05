@@ -1,0 +1,100 @@
+{
+    "id": 156,
+    "date": "2024-03-06T21:27:48",
+    "date_gmt": "2024-03-06T21:27:48",
+    "guid": {
+        "rendered": "https:\/\/freedomfg.org\/about\/"
+    },
+    "modified": "2024-07-14T03:10:10",
+    "modified_gmt": "2024-07-14T03:10:10",
+    "slug": "about",
+    "status": "publish",
+    "type": "page",
+    "link": "https:\/\/freedomfg.org\/about\/",
+    "title": {
+        "rendered": "About"
+    },
+    "content": {
+        "rendered": "\t\t<div data-elementor-type=\"wp-page\" data-elementor-id=\"156\" class=\"elementor elementor-156\" data-elementor-post-type=\"page\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-8bda03f elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle\" data-id=\"8bda03f\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t\t<div class=\"elementor-background-overlay\"><\/div>\n\t\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ff344d2\" data-id=\"5ff344d2\" data-element_type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-1cd434aa elementor-widget elementor-widget-heading\" data-id=\"1cd434aa\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<style>\/*! elementor - v3.19.0 - 28-02-2024 *\/\n.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}<\/style><h1 class=\"elementor-heading-title elementor-size-default\">About Us<\/h1>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-43edd1c elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"43edd1c\" data-element_type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-236901cf\" data-id=\"236901cf\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-5e410e03 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"5e410e03\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-4b52635d\" data-id=\"4b52635d\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-19559109 elementor-widget elementor-widget-elementskit-heading\" data-id=\"19559109\" data-element_type=\"widget\" data-widget_type=\"elementskit-heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<div class=\"ekit-wid-con\" ><div class=\"ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-text_left   ekit_heading_mobile-text_center\"><h3 class=\"ekit-heading--title elementskit-section-title \">BUSINESS FUNDING BY E&E FUNDING GROUP<\/h3><\/div><\/div>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-622e1061 elementor-widget elementor-widget-elementskit-heading\" data-id=\"622e1061\" data-element_type=\"widget\" data-widget_type=\"elementskit-heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<div class=\"ekit-wid-con\" ><div class=\"ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-text_left   ekit_heading_mobile-text_center\"><h3 class=\"ekit-heading--title elementskit-section-title \">OUR MISSION IS TO CREATE <span><span>OPPORTUNITIES FOR BUSINESSES AND CHAMPION ENTREPRENEURS<\/span><\/span> WHO ARE THE LIFEBLOOD OF OUR ECONOMY.<\/h3><\/div><\/div>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-70c10e32 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"70c10e32\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4aee609a\" data-id=\"4aee609a\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<section class=\"elementor-section elementor-inner-section elementor-element elementor-element-41cebcda elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"41cebcda\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-21c861ce\" data-id=\"21c861ce\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-2a84576c elementor-widget elementor-widget-text-editor\" data-id=\"2a84576c\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<style>\/*! elementor - v3.19.0 - 28-02-2024 *\/\n.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}<\/style>\t\t\t\t<p>Since 2015, E&E FUNDING GROUP has become a leader in <strong>business funding<\/strong>. We have worked with over 90,000 merchants in a variety of industries like auto repair, rehabilitation centers, landscaping businesses, construction contractors, and more. We understand the challenges that businesses face and are passionate about providing alternative funding to help them succeed. E&E FUNDING GROUP takes pride in our straightforward and transparent approach that considers your business\u2019s big picture, not just your credit score. This commitment to creating access to capital for our clients has enabled us to offer over $900 million in funding options for our small businesses across the nation.<\/p><p>All too often, entrepreneurs don\u2019t have the funds they need on hand to reach the next phase of their company\u2019s evolution. And the amount of red tape and waiting around they have to endure to secure financing is often not worth the hassle. That\u2019s where E&E FUNDING GROUP\u2019s years of experience providing business owners with prompt and personal funding makes a big difference. Whether you\u2019re looking to purchase inventory, expand your location, hire new staff, or grow your revenue, E&E FUNDING GROUP is there to make sure you have the capital you need to realize your dreams. We\u2019re more than just another business funder. We\u2019re a funding partner that is with you for the long haul.<\/p>\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-5f119cef elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"5f119cef\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5823fa5d\" data-id=\"5823fa5d\" data-element_type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-61e09d17 elementor-widget elementor-widget-heading\" data-id=\"61e09d17\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h5 class=\"elementor-heading-title elementor-size-default\"><a href=\"#\">HELPING BUSINESSES GROW<\/a><\/h5>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-6f732af5 elementor-widget elementor-widget-text-editor\" data-id=\"6f732af5\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<p>Do you feel like you\u2019re on the cusp of something big but don\u2019t have the capital to get there? E&E FUNDING GROUP has worked with businesses across the country that faced the same issue. Whether you\u2019re interested in renovating your location, implementing a fresh marketing campaign, buying inventory at a discount, or covering payroll interruptions, E&$ Funding Group is familiar with your circumstances and wants to be part of your solution. When it comes to helping small businesses reach their full potential, Freedom Financial is passionate about being part of that journey.<\/p>\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5f0eca4a\" data-id=\"5f0eca4a\" data-element_type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-7c910e6a elementor-widget elementor-widget-heading\" data-id=\"7c910e6a\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h5 class=\"elementor-heading-title elementor-size-default\"><a href=\"#\">A NEW APPROACH TO FUNDING<\/a><\/h5>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-162f0b6f elementor-widget elementor-widget-text-editor\" data-id=\"162f0b6f\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<p>Our approach to funding is rooted in our commitment to the success of businesses like yours. We understand the unique stressors that seeking financing can cause, and we endeavor to eliminate as much anxiety and obscurity from our funding process as possible. Our application is straightforward, approvals are often handled in hours, and you can have the financing in your account within the same week that you\u2019ve applied, and sometimes as soon as 24 hours. But, best of all, we consider the overall financial health and trajectory of your business rather than a glance at your credit score. If you have questions, our in-house underwriters will walk your through every aspect of your funding package to be certain that it is working for you.<\/p>\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<section class=\"elementor-section elementor-top-section elementor-element elementor-element-6ea9f612 elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"6ea9f612\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-default\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1d7b46ff\" data-id=\"1d7b46ff\" data-element_type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-5ac9648d elementor-widget elementor-widget-heading\" data-id=\"5ac9648d\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h5 class=\"elementor-heading-title elementor-size-default\"><a href=\"#\">BUSINESS FUNDING OPTIONS<\/a><\/h5>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-39a10e47 elementor-widget elementor-widget-text-editor\" data-id=\"39a10e47\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t<section class=\"p-v-3\"><div class=\"container\"><div class=\"row row-md-flex\"><div class=\"col-md-6\"><div class=\"panel panel-flex center bg-secondary text-uppercase\"><div class=\"panel-body text-center\"><p class=\"h3\">UP TO $25,000,000<\/p><\/div><\/div><\/div><\/div><\/div><\/section>\t\t\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<div class=\"elementor-element elementor-element-47607f7 elementor-align-center elementor-widget elementor-widget-button\" data-id=\"47607f7\" data-element_type=\"widget\" data-widget_type=\"button.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"elementor-button-wrapper\">\n\t\t\t<a class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"\/get-started\/\">\n\t\t\t\t\t\t<span class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t<span class=\"elementor-button-text\">GET STARTED<\/span>\n\t\t<\/span>\n\t\t\t\t\t<\/a>\n\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7cae5edf\" data-id=\"7cae5edf\" data-element_type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-3adbf24d elementor-widget elementor-widget-heading\" data-id=\"3adbf24d\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t<h5 class=\"elementor-heading-title elementor-size-default\"><a href=\"#\">TRUSTED BY<br>\nBUSINESS OWNERS<br>\nSINCE 2015<\/a><\/h5>\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/div>\n\t\t\t\t\t<\/div>\n\t\t<\/section>\n\t\t\t\t<\/div>\n\t\t",
+        "protected": false
+    },
+    "excerpt": {
+        "rendered": "<p>About Us BUSINESS FUNDING BY E&E FUNDING GROUP OUR MISSION IS TO CREATE OPPORTUNITIES FOR BUSINESSES AND CHAMPION ENTREPRENEURS WHO ARE THE LIFEBLOOD OF OUR ECONOMY. Since 2015, E&E FUNDING GROUP has become a leader in business funding. We have worked with over 90,000 merchants in a variety of industries like auto repair, rehabilitation centers, [&hellip;]<\/p>\n",
+        "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "elementor_header_footer",
+    "meta": {
+        "footnotes": ""
+    },
+    "class_list": [
+        "post-156",
+        "page",
+        "type-page",
+        "status-publish",
+        "hentry"
+    ],
+    "_links": {
+        "self": [
+            {
+                "href": "https:\/\/freedomfg.org\/wp-json\/wp\/v2\/pages\/156",
+                "targetHints": {
+                    "allow": [
+                        "GET"
+                    ]
+                }
+            }
+        ],
+        "collection": [
+            {
+                "href": "https:\/\/freedomfg.org\/wp-json\/wp\/v2\/pages"
+            }
+        ],
+        "about": [
+            {
+                "href": "https:\/\/freedomfg.org\/wp-json\/wp\/v2\/types\/page"
+            }
+        ],
+        "author": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/freedomfg.org\/wp-json\/wp\/v2\/users\/1"
+            }
+        ],
+        "replies": [
+            {
+                "embeddable": true,
+                "href": "https:\/\/freedomfg.org\/wp-json\/wp\/v2\/comments?post=156"
+            }
+        ],
+        "version-history": [
+            {
+                "count": 16,
+                "href": "https:\/\/freedomfg.org\/wp-json\/wp\/v2\/pages\/156\/revisions"
+            }
+        ],
+        "predecessor-version": [
+            {
+                "id": 419,
+                "href": "https:\/\/freedomfg.org\/wp-json\/wp\/v2\/pages\/156\/revisions\/419"
+            }
+        ],
+        "wp:attachment": [
+            {
+                "href": "https:\/\/freedomfg.org\/wp-json\/wp\/v2\/media?parent=156"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}
